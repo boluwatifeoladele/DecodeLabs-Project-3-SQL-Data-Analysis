@@ -42,6 +42,13 @@ The screenshots below show selected SQL queries and their results from the analy
 ### 5. Total Records
 ![Total Records](screenshots/05-total-records.png)
 
+## SQL Demonstration Video
+
+Watch the video demonstration of my SQL queries and analysis results.
+
+[▶ Watch the SQL Project Demonstration](https://drive.google.com/file/d/1dW23-5Lnw7f7RbjKKwsau_7rYBMPSepx/view?usp=sharing)
+
+
 
 ## Learning Outcomes
 This project provided practical experience in writing SQL queries, retrieving and filtering data, organising query results, and using aggregate functions to summarise sales information.
