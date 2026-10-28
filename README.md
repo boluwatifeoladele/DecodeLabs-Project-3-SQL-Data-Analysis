@@ -22,6 +22,26 @@ The project covered the following exercises:
 ## Project Files
 - **SQL analysis file:** Contains the SQL queries used for the exercises.
 - **Word report:** Documents the Project 3 SQL data analysis work.
+  
+## Project Screenshots
+
+The screenshots below show selected SQL queries and their results from the analysis.
+
+### 1. Sales Data Query
+![Sales Data Query](screenshots/01-salesdata-query.png)
+
+### 2. Order by Quantity
+![ Order by Quantity](screenshots/02-order-by-quantity.png)
+
+### 3. Product Count
+![Product Count](screenshots/03-product-count.png)
+
+### 4. Total Sales by Product
+![Total Sales by Product](screenshots/04-total-sales-by-product.png)
+
+### 5. Total Records
+![Total Records](screenshots/05-total-records.png)
+
 
 ## Learning Outcomes
 This project provided practical experience in writing SQL queries, retrieving and filtering data, organising query results, and using aggregate functions to summarise sales information.
